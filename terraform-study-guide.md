@@ -22,7 +22,7 @@ Each provider adds a set of resource types and/or data sources that Terraform ca
   
 provider "azurerm" {
 features { }  
-version = ">= 2.26“ (optional here)  
+version = ">= 2.26“ 
 }
 provider_x_y **à** e.x. (azurerm_resource_group)
 
